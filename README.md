@@ -4,7 +4,7 @@ I'm a data-driven young computer science graduate with a passion for all things 
 
 ## Key Skills
 
-- Data Engineering: Designing and implementing robust ETL pipelines for efficient data integration and workflow automation.
+- Data Engineering: Designing and implementing ETL pipelines for efficient data integration and workflow automation.
 - Machine Learning: Leveraging AI models and LLMs to solve complex problems and drive innovation in data-driven decision-making.
 - Cloud Platforms: Proficient in deploying and managing data solutions on platforms like Google Cloud, AWS, and Azure for data storage, processing, and analytics.
 - Data Pipeline Orchestration: Experienced in using tools like Apache Kafka, Airflow, and Spark to streamline data workflows.
