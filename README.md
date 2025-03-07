@@ -1,6 +1,6 @@
 # Hello, I'm Emmanuel👋
 
-I'm a data-driven computer science graduate with a passion for all things data, AI, and cloud technologies. My expertise lies in building scalable data pipelines, developing machine learning models, and optimizing cloud-based solutions to turn data into actionable insights.
+I'm a data-driven young computer science graduate with a passion for all things data, AI, and cloud technologies. My enthusiasm lies in building scalable data pipelines, developing machine learning models, and optimizing cloud-based solutions to turn data into actionable insights.
 
 ## Key Skills
 
