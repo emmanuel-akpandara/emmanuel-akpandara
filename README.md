@@ -18,7 +18,7 @@ I'm a data-driven young computer science graduate with a passion for all things 
 I specialize in building scalable data solutions and driving collaborative, innovative projects across multiple industries. I'm passionate about applying my technical expertise in **data engineering**, **machine learning**, and **business intelligence** to help organizations solve real-world problems, uncover patterns through data analysis, and optimize operations with clear, data-backed decisions.
 
 
-Feel free to reach out if you'd like to collaborate or discuss opportunities in data engineering, AI, or cloud technologies. Lets Connect!
+Feel free to reach out if you'd like to collaborate or discuss opportunities in the field of data, AI, or cloud technologies. Lets Connect!
 
 You can reach me at:
 - akpandaraemmanuel@gmail.com (primary email)
