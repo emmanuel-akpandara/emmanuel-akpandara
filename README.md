@@ -1,41 +1,51 @@
 # Hello, I'm Emmanuel 👋
 
-I'm a data-driven young computer science graduate with a passion for all things data, AI, and cloud technologies. My enthusiasm lies in building scalable data pipelines, developing machine learning models, performing insightful data analysis, and optimizing cloud-based solutions to turn data into actionable insights.
+I'm a curious and driven Computer Science graduate who thrives at the intersection of **data, AI**, and **software engineering**. I love building smart, scalable solutions — from intelligent web applications to robust data pipelines — that turn ideas into impact.
 
-## Key Skills
+Whether it's developing full-stack systems, crafting machine learning models, or architecting cloud-native infrastructure, I enjoy the creative process of solving real-world problems through code.
 
-- **Data Analysis & Visualization:** Extracting meaningful insights from raw data through exploratory analysis and visual storytelling using tools like Power BI, Python (pandas, seaborn), and Grafana.
-- **Data Engineering:** Designing and implementing ETL pipelines for efficient data integration and workflow automation.
-- **Machine Learning:** Leveraging AI models and LLMs to solve complex problems and drive innovation in data-driven decision-making.
-- **Cloud Platforms:** Proficient in deploying and managing data solutions on platforms like Google Cloud, AWS, and Azure for data storage, processing, and analytics.
-- **Data Pipeline Orchestration:** Experienced in using tools like Apache Kafka, Airflow, and Spark to streamline data workflows.
-- **Programming & Scripting:** Proficient in Python, JavaScript, and Bash for data manipulation, automation, and scripting.
-- **Visualization:** Creating interactive dashboards and visual reports with tools like Power BI, Tableau, and Python-based libraries to turn complex datasets into understandable insights.
-- **Soft Skills:** Strong communicator, team player, and problem-solver with a focus on collaboration across technical and non-technical teams.
+## 🚀 What I Do
 
-## What I Do
+As a developer with a focus on **applied AI** and **software engineering**, I design and build:
+- Scalable web APIs and cloud-first applications
+- AI-powered features using LLMs and embeddings
+- End-to-end data pipelines for analytics and automation
+- Dashboards and visualizations that turn data into stories
+- Systems that blend performance, functionality, and usability
 
-I specialize in building scalable data solutions and driving collaborative, innovative projects across multiple industries. I'm passionate about applying my technical expertise in **data engineering**, **machine learning**, and **business intelligence** to help organizations solve real-world problems, uncover patterns through data analysis, and optimize operations with clear, data-backed decisions.
+---
 
+## 🧰 Technical Toolkit
 
-Feel free to reach out if you'd like to collaborate or discuss opportunities in the field of data, AI, or cloud technologies. Lets Connect!
+### ⚙️ Software Engineering
+- **Languages**: C#, Python, JavaScript, Bash  
+- **Frameworks**: ASP.NET Core, Node.js, Flask, Blazor, React  
+- **DevOps**: Docker, GitHub Actions, CI/CD pipelines, Linux CLI  
+- **Testing & Debugging**: Postman, Swagger, xUnit, Jest  
+- **Architecture**: REST APIs, microservices, layered patterns
 
-You can reach me at:
-- akpandaraemmanuel@gmail.com (primary email)
+### 🧠 Data & AI
+- **Data Engineering**: ETL workflows, pipeline orchestration (Airflow, Spark), Kafka  
+- **Machine Learning**: NLP, embedding models, scikit-learn, OpenAI APIs, Hugging Face 
+- **Visualization**: Power BI, Tableau, Grafana, seaborn  
+- **Cloud Platforms**: Azure, AWS, Google Cloud  
+- **Vector Search**: Pinecone, cosine similarity, semantic search
+
+---
+
+## 💡 Featured Projects
+
+- **AI-Powered Resume Analyzer**: A semantic search engine that matches resumes to job postings using OpenAI embeddings and Pinecone vector search.
+
+## 🤝 Let's Connect
+
+I'm always open to tech collaborations, mentorships, and new opportunities across software, AI, and data. If you're working on something exciting, let's chat!
+
+📫 Reach me at:  
+- akpandaraemmanuel@gmail.com (primary email)  
 - emzz.akp@gmail.com (work email)
 
-
 <!--
-**emmanuel-akpandara/emmanuel-akpandara** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+✨ This README appears on my GitHub profile.
+Ask me about: AI projects, data engineering, software architecture, or building cool tools.
 -->
