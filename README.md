@@ -4,7 +4,7 @@ I'm a curious and driven Computer Science graduate who thrives at the intersecti
 
 Whether it's developing full-stack systems, crafting machine learning models, or architecting cloud-native infrastructure, I enjoy the creative process of solving real-world problems through code.
 
-## 🚀 What I Do
+##  What I Do
 
 As a developer with a focus on **applied AI** and **software engineering**, I design and build:
 - Scalable web APIs and cloud-first applications
@@ -15,16 +15,16 @@ As a developer with a focus on **applied AI** and **software engineering**, I de
 
 ---
 
-## 🧰 Technical Toolkit
+##  Technical Toolkit
 
-### ⚙️ Software Engineering
+###  Software Engineering
 - **Languages**: C#, Python, JavaScript, Bash  
 - **Frameworks**: ASP.NET Core, Node.js, Flask, Blazor, React  
 - **DevOps**: Docker, GitHub Actions, CI/CD pipelines, Linux CLI  
 - **Testing & Debugging**: Postman, Swagger, xUnit, Jest  
 - **Architecture**: REST APIs, microservices, layered patterns
 
-### 🧠 Data & AI
+###  Data & AI
 - **Data Engineering**: ETL workflows, pipeline orchestration (Airflow, Spark), Kafka  
 - **Machine Learning**: NLP, embedding models, scikit-learn, OpenAI APIs, Hugging Face 
 - **Visualization**: Power BI, Tableau, Grafana, seaborn  
@@ -33,7 +33,7 @@ As a developer with a focus on **applied AI** and **software engineering**, I de
 
 ---
 
-## 💡 Featured Projects
+##  Featured Projects
 
 - **AI-Powered Resume Analyzer**: A semantic search engine that matches resumes to job postings using OpenAI embeddings and Pinecone vector search.
 
