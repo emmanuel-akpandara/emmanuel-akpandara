@@ -1,6 +1,6 @@
-# Hello, I'm Emmanuel 👋
+# Hello, I'm Emmanuel 
 
-I'm a curious and driven Computer Science graduate who thrives at the intersection of **data, AI**, and **software engineering**. I love building smart, scalable solutions — from intelligent web applications to robust data pipelines — that turn ideas into impact.
+I'm a curious and driven Computer Science graduate who thrives at the intersection of **data, AI**, and **software engineering**. I love building smart, scalable solutions, from intelligent web applications to robust data pipelines that turn ideas into impact.
 
 Whether it's developing full-stack systems, crafting machine learning models, or architecting cloud-native infrastructure, I enjoy the creative process of solving real-world problems through code.
 
