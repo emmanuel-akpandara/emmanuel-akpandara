@@ -18,15 +18,15 @@ As a developer with a focus on **applied AI** and **software engineering**, I de
 ##  Technical Toolkit
 
 ###  Software Engineering
-- **Languages**: C#, Python, JavaScript, Bash  
-- **Frameworks**: ASP.NET Core, Node.js, Flask, Blazor, React  
+- **Languages**: C#, Python, PHP, Java, JavaScript, Bash  
+- **Frameworks**: ASP.NET Core, Node.js, Flask, Blazor, React, Livewire, Springboot  
 - **DevOps**: Docker, GitHub Actions, CI/CD pipelines, Linux CLI  
-- **Testing & Debugging**: Postman, Swagger, xUnit, Jest  
+- **Testing & Debugging**: Postman, Swagger, 
 - **Architecture**: REST APIs, microservices, layered patterns
 
 ###  Data & AI
 - **Data Engineering**: ETL workflows, pipeline orchestration (Airflow, Spark), Kafka  
-- **Machine Learning**: NLP, embedding models, scikit-learn, OpenAI APIs, Hugging Face 
+- **Machine Learning**: NLP, embedding models, scikit-learn, OpenAI APIs, Hugging Face, MLFlow 
 - **Visualization**: Power BI, Tableau, Grafana, seaborn  
 - **Cloud Platforms**: Azure, AWS, Google Cloud  
 - **Vector Search**: Pinecone, cosine similarity, semantic search
